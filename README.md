@@ -1,10 +1,7 @@
 # mysql
-Bastille Jail MySQL Template
+Bastille Jail PhpMyAdmin Template
 
-After this jail is running you SHOULD make your installation secure by running the following
-comand.
-
-	mysql_secure_installation
+ STATUS:  Incomplete
 
 
 
